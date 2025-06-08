@@ -1,0 +1,5 @@
+/.sourcemaps
+/.versions
+/coverage
+
+/node_modules
